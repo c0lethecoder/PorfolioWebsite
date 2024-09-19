@@ -49,7 +49,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     body.classList.add('light-mode');
 }
 
-// Initialize AOS library
+/* Initialize AOS library
 AOS.init({
     duration: 1200,  // animation duration in milliseconds
 });
+*/
